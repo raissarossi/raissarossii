@@ -19,7 +19,7 @@
     
 </div>
  
-  ![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ELLEN2121/raissarossi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
