@@ -18,8 +18,8 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
    ![Snake animation](https://github.com/raissarossi/raissarossi/blob/output/github-contribution-grid-snake.svg)
- 
+   ![snake gif](https://github.com/raissarossi/raissarossi/blob/output/github-contribution-grid-snake.svg)
 </div>
  
-![snake gif](https://github.com/Formandodev/raissarossi/blob/output/github-contribution-grid-snake.svg)
+
  
