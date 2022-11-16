@@ -1,4 +1,4 @@
-<h1> Hi! My name is Ellen. </h1>
+<h1> Hi! My name is Rai. </h1>
 
 <div>
   <a href="https://github.com/raissarossi">
@@ -22,5 +22,4 @@
   ![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+
