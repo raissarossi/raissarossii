@@ -16,8 +16,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-
-
 <!-- ![snake gif](https://github.com/raissarossi/raissarossi/blob/output/github-contribution-grid-snake.svg) -->
 <!--  ![Snake animation](https://github.com/raissarossi/raissarossi/blob/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://github.com/raissarossi/raissarossi/blob/output/github-contribution-grid-snake.svg)
